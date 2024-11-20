@@ -1,0 +1,5 @@
+# Core packages used in this project
+mne>=1.5.1         # For EEG data handling
+numpy>=1.24.0      # For numerical computations
+matplotlib>=3.7.1  # For visualization
+scipy>=1.10.1      # For signal processing
